@@ -63,3 +63,6 @@ target/
 
 # Misc
 *~
+bin/
+include/
+pip-selfcheck.json
